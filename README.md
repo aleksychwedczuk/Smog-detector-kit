@@ -1,23 +1,25 @@
 # Smog-detector-kit
 Short description.
-
+JB
 # Introduction
 Short into.
-
+Igor R
 # Hardware Specification
 Product Tree
-
+Rysiek / Krzysztof
 # Detector Diagram
 Image here.
-
+Rysiek + JB
 # Getting Started with Smog Detector Kit
 Short step by step tutorial here.
-
+Karolina 
 # How to program Smog Detector Kit
-
-# Hardware Resource
+AltoBluedot
+# Hardware Resource 
 ## 3D Models
+Aleksik Kleksik
 ## BOM (Bill of Materials)
+Aleksik Kleksik
 
 ## License
 
