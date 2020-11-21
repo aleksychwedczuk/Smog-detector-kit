@@ -1,3 +1,3 @@
 # Smog-detector-kit
 
-Small change.
+Small change. Koko koko euro spoko
