@@ -1,4 +1,10 @@
 # Smog-detector-kit
+Short description.
 
-Small change. Koko koko euro spoko
-Piłka leci za wysoko.
+# Introduction
+Short into.
+
+# Hardware Specification
+Product Tree
+
+# etc
