@@ -4,6 +4,7 @@ This open-hardware project allows anyone to build their own DIY particular matte
 It is designed to make use only of off-the-shelf products, which can be easily purchased in hardware and electronic equipment stores worldwide. Customizable parts were designed for 3D printing and everyone is welcome to contribute to the project by improving on simple designs provided here. All relevant airflow and photodiode sensitivity calculators have been provided to help with improving the design.
 
 Authors: Aleksy Chwedczuk, Krzysztof Dziardziel, Karolina Kamińska, Mateusz Mazurczak, Ryszard Nowacki, Igor Roszczyk, Bianka Scott (under supervision by Jakub Bochiński).
+
 Smog detector kit is freely available on MIT License (see below).
 
 # Introduction
