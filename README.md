@@ -26,6 +26,10 @@ Rysiek + JB
 # Getting Started with Smog Detector Kit
 Short step by step tutorial here.
 Karolina 
+
+In case you were wondering what is happening inside of the Smog Detector Kit, here is a handy cross section:
+![Detector cross section](/images/SDK_photo_desc2.png)
+
 # How to program Smog Detector Kit
 The software necessary to operate the Smog Detector is very simple. It is
 composed of two seperate scripts, written in Arduino C++ and Python 3.<br>
