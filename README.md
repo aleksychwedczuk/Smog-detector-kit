@@ -10,6 +10,12 @@ Smog detector kit is freely available on MIT License (see below).
 # Introduction
 We are a group of students based in Poland who teamed up to discover new solutions to a chosen world issue. Smog - the widespread problem that affects most of us is what we wanted to focus on. We chose to bring awareness to precisely how much air pollution affects our life expectancy while allowing other students from Poland to follow our steps, creating the device and spreading awareness among their local communities. 
 
+Our smog detector kit, thanks to it’s plug based component design, the detector is modifiable and extendable. It works by detecting particles in the air as they cross the laser and calculates smog levels, also converting them into other statistics. The machine is quiet and self-calibrating, making it user friendly and easy to set up.
+
+Whether it's a science project or a curiosity for what's in the air in your house, the Smog detector kit is for you. All remaining components are available at your local hardware store so your job is to assemble it and collect data for the program to process.
+
+By assembling the smog detector kit you are investing in developing your engineering skills, regardless of your level of expertise, and a way of collecting data by yourself. It is cheaper than many alternatives out there, easy to use and provides an interesting outlook on the impact the air around you has on your health.
+
 # Hardware Specification
 Product Tree
 Rysiek / Krzysztof
