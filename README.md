@@ -7,4 +7,5 @@ Short into.
 # Hardware Specification
 Product Tree
 
-# etc
+# Detector Diagram
+Image here.
