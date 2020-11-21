@@ -1,9 +1,10 @@
 # Smog-detector-kit
-This open-hardware project allows anyone to build their own DIY particular matter detector and experiment with setting it up for various particle sizes (from 2.5 μm to 10 μm and larger).
+This open-hardware project allows anyone to build their own DIY particular matter detector and experiment with setting it up for various particle sizes (from 2.5 μm to 10 μm and larger). 
 
 It is designed to make use only of off-the-shelf products, which can be easily purchased in hardware and electronic equipment stores worldwide. Customizable parts were designed for 3D printing and everyone is welcome to contribute to the project by improving on simple designs provided here. All relevant airflow and photodiode sensitivity calculators have been provided to help with improving the design.
 
 Authors: Aleksy Chwedczuk, Krzysztof Dziardziel, Karolina Kamińska, Mateusz Mazurczak, Ryszard Nowacki, Igor Roszczyk, Bianka Scott (under supervision by Jakub Bochiński).
+Smog detector kit is freely available on MIT License (see below).
 
 # Introduction
 We are a group of students based in Poland who teamed up to discover new solutions to a chosen world issue. Smog - the widespread problem that affects most of us is what we wanted to focus on. Our target was to investigate the effect of smog on lifespan and create a simple kit that anyone could assemble and use in order to know what is in the air that surrounds us.
