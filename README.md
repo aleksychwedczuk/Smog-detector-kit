@@ -7,6 +7,18 @@ Authors: Aleksy Chwedczuk, Krzysztof Dziardziel, Karolina Kamińska, Mateusz Maz
 
 Smog detector kit is freely available on MIT License (see below).
 
+# Table of contents
+* [Introduction](#introduction)
+* [Hardware Specification](#hardware-specification)
+* [Detector Diagram](#detector-diagram)
+* [Getting started with Smog Detector Kit](#getting-started-with-smog-detector-kit)
+* [How to program Smog Detector Kit](#how-to-program-smog-detector-kit)
+* [Hardware Resources](#hardware-resources)
+  * [3D Models](#3d-models)
+  * [Bill of Materials](#bill-of-materials)
+* [License](#license)
+
+
 # Introduction
 We are a group of students based in Poland who teamed up to discover new solutions to a chosen world issue. Smog - the widespread problem that affects most of us is what we wanted to focus on. We chose to bring awareness to precisely how much air pollution affects our life expectancy while allowing other students from Poland to follow our steps, creating the device and spreading awareness among their local communities. 
 
@@ -54,13 +66,13 @@ be any device, it does not need to be a genuino. Calibration can be conducted if
 needed by modifying the variables `size` and `coarse`, which control the length of the
 displayed data and the precision with which peaks should be searched for,
 respectively.
-# Hardware Resource 
+# Hardware Resources 
 ## 3D Models
 Aleksik Kleksik
-## BOM (Bill of Materials)
+## Bill of Materials
 Aleksik Kleksik
 
-## License
+# License
 
 **MIT License**
 
