@@ -5,7 +5,7 @@ It is designed to make use only of off-the-shelf products, which can be easily p
 
 Authors: Aleksy Chwedczuk, Krzysztof Dziardziel, Karolina Kamińska, Mateusz Mazurczak, Ryszard Nowacki, Igor Roszczyk, Bianka Scott (under supervision by Jakub Bochiński).
 
-Smog detector kit is freely available on MIT License (see below).
+Smog detector kit is freely available on MIT License ([see below](#license)).
 
 # Table of contents
 * [Introduction](#introduction)
