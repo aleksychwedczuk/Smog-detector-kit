@@ -76,7 +76,8 @@ Aleksik Kleksik
 
 **MIT License**
 
-Copyright (c) 2020 aleksychwedczuk
+Copyright (c) 2020 by Aleksy Chwedczuk, Krzysztof Dziardziel, Karolina Kamińska, 
+Mateusz Mazurczak, Ryszard Nowacki, Igor Roszczyk, Bianka Scott & Jakub Bochiński.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
