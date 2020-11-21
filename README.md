@@ -20,8 +20,9 @@ By assembling the smog detector kit you are investing in developing your enginee
 Product Tree
 Rysiek / Krzysztof
 # Detector Diagram
-Image here.
 Rysiek + JB
+
+![Detector Diagram](/images/SDK_photo_desc.png)
 # Getting Started with Smog Detector Kit
 Short step by step tutorial here.
 Karolina 
