@@ -6,8 +6,8 @@ It is designed to make use only of off-the-shelf products, which can be easily p
 Authors: Aleksy Chwedczuk, Krzysztof Dziardziel, Karolina Kamińska, Mateusz Mazurczak, Ryszard Nowacki, Igor Roszczyk, Bianka Scott (under supervision by Jakub Bochiński).
 
 # Introduction
-Short into.
-Igor R
+We are a group of students based in Poland who teamed up to discover new solutions to a chosen world issue. Smog - the widespread problem that affects most of us is what we wanted to focus on. Our target was to investigate the effect of smog on lifespan and create a simple kit that anyone could assemble and use in order to know what is in the air that surrounds us.
+
 # Hardware Specification
 Product Tree
 Rysiek / Krzysztof
