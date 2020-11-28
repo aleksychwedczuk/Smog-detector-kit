@@ -104,7 +104,7 @@ Laser holder files:<br>
 Fan mount files:<br>
 *EDITABLE FILES MISSING*<br>
 *EDITABLE FILES MISSING*<br>
-*STL FILES MISSING*<br>
+fan_holder.stl<br>
 
 In order to create a copy of the original smog detective detector all STL files listed should be printed: <br>
 [beamdump_part_1.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_1.stl) <br>
@@ -112,7 +112,7 @@ In order to create a copy of the original smog detective detector all STL files 
 [beamdump_part_3.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_3.stl) <br>
 [photodiode_rod.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/photodiode_rod.stl)<br>
 [laser_holder.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/laser_holder.stl)<br>
-*STL FILES MISSING*<br>
+[fan_holder.stl]
 
 Otherwise if a need to edit any of the files arises they are available both in the editable STEP format as well as the AUTODESK FUSION 360 ARCHIVE FILES format compatible with autodesk CAD software.
 
