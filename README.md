@@ -96,12 +96,12 @@ photodiode_rod.f3d<br>
 photodiode_rod.step<br>
 photodiode_rod.stl<br>
 
-Laser holder files:
+Laser holder files:<br>
 *EDITABLE FILES MISSING*<br>
 *EDITABLE FILES MISSING*<br>
 laser_holder.stl<br>
 
-Fan mount files:
+Fan mount files:<br>
 *EDITABLE FILES MISSING*<br>
 *EDITABLE FILES MISSING*<br>
 *STL FILES MISSING*<br>
