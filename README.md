@@ -104,13 +104,13 @@ Laser holder files:<br>
 Fan mount files:<br>
 *EDITABLE FILES MISSING*<br>
 *EDITABLE FILES MISSING*<br>
-fan_holder.stl<br>
+[fan_holder.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/fan_holder.stl)<br>
 
 In order to create a copy of the original smog detective detector all STL files listed should be printed: <br>
 [beamdump_part_1.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_1.stl) <br>
 [beamdump_part_2.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_2.stl) <br>
 [beamdump_part_3.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_3.stl) <br>
-[photodiode_rod.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/photodiode_rod.stl)<br>
+![photodiode_rod.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/photodiode_rod.stl)<br>
 [laser_holder.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/laser_holder.stl)<br>
 [fan_holder.stl]
 
@@ -165,4 +165,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. 
+SOFTWARE.
