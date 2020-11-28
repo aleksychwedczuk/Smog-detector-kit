@@ -89,6 +89,8 @@ beamdump_part_1.stl
 beamdump_part_2.stl
 beamdump_part_3.stl
 
+<script src="https://embed.github.com/view/3d/aleksychwedczuk/Smog-detector-kit/3d-models/beamdump_part_1.stl"></script>
+
 *First two files are editable and constitute of the beamdump part which is composed of three different components. The beamdump is split in order to ensure easy printing without the need of any raft on an FDM-type printer. Because of that there are three STL files as the beamdump itself has free parts which connect together without any additional adhesive due to their geometry.*
 
 Photodiode rod files:
