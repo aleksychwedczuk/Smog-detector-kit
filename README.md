@@ -83,11 +83,11 @@ This is what the ParseSmog library is able to do - detect, locate, enumerate and
 The following files are uploaded in the 3D folder:
 
 Beam dump files:<br>
-beamdump.f3d <br>
-beamdump.step<br>
-beamdump_part_1.stl<br>
-beamdump_part_2.stl<br>
-beamdump_part_3.stl<br>
+[beamdump.f3d](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump.f3d) <br>
+[beamdump.step](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump.step) <br>
+[beamdump_part_1.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_1.stl) <br>
+[beamdump_part_2.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_2.stl) <br>
+[beamdump_part_3.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_3.stl) <br>
 
 *First two files are editable and constitute of the beamdump part which is composed of three different components. The beamdump is split in order to ensure easy printing without the need of any raft on an FDM-type printer. Because of that there are three STL files as the beamdump itself has free parts which connect together without any additional adhesive due to their geometry.*
 
