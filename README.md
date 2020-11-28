@@ -112,7 +112,7 @@ In order to create a copy of the original smog detective detector all STL files 
 [beamdump_part_3.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_3.stl) <br>
 [photodiode_rod.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/photodiode_rod.stl)<br>
 [laser_holder.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/laser_holder.stl)<br>
-[fan_holder.stl]
+[fan_holder.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/fan_holder.stl)<br>
 
 Otherwise if a need to edit any of the files arises they are available both in the editable STEP format as well as the AUTODESK FUSION 360 ARCHIVE FILES format compatible with autodesk CAD software.
 
