@@ -82,36 +82,39 @@ This is what the ParseSmog library is able to do - detect, locate, enumerate and
 ## 3D Models
 The following files are uploaded in the 3D folder:
 
-Beam dump files:
-beamdump.f3d 
-beamdump.step
-beamdump_part_1.stl
-beamdump_part_2.stl
-beamdump_part_3.stl
-
-<script src="https://embed.github.com/view/3d/aleksychwedczuk/Smog-detector-kit/3d-models/beamdump_part_1.stl"></script>
+Beam dump files:<br>
+beamdump.f3d <br>
+beamdump.step<br>
+beamdump_part_1.stl<br>
+beamdump_part_2.stl<br>
+beamdump_part_3.stl<br>
 
 *First two files are editable and constitute of the beamdump part which is composed of three different components. The beamdump is split in order to ensure easy printing without the need of any raft on an FDM-type printer. Because of that there are three STL files as the beamdump itself has free parts which connect together without any additional adhesive due to their geometry.*
 
-Photodiode rod files:
-photodiode_rod.f3d
-photodiode_rod.step
-photodiode_rod.stl
+Photodiode rod files:<br>
+photodiode_rod.f3d<br>
+photodiode_rod.step<br>
+photodiode_rod.stl<br>
 
 Laser holder files:
-*EDITABLE FILES MISSING*
-*EDITABLE FILES MISSING*
-laser_holder.stl
+*EDITABLE FILES MISSING*<br>
+*EDITABLE FILES MISSING*<br>
+laser_holder.stl<br>
 
 Fan mount files:
-*EDITABLE FILES MISSING*
-*EDITABLE FILES MISSING*
-*STL FILES MISSING*
+*EDITABLE FILES MISSING*<br>
+*EDITABLE FILES MISSING*<br>
+*STL FILES MISSING*<br>
 
 In order to create a copy of the original smog detective detector all STL files listed should be printed: <br>
-beamdump_part_1.stl
-beamdump_part_2.stl
-beamdump_part_3.stl
+beamdump_part_1.stl<br>
+beamdump_part_2.stl<br>
+beamdump_part_3.stl<br>
+photodiode_rod.stl<br>
+laser_holder.stl<br>
+*STL FILES MISSING*<br>
+
+Otherwise if a need to edit any of the files arises they are available both in the editable STEP format as well as the AUTODESK FUSION 360 ARCHIVE FILES format compatible with autodesk CAD software.
 
 
 ## Bill of Materials
