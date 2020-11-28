@@ -82,10 +82,32 @@ Aleksik Kleksik
 
 # License
 
+## Hardware
+Hardware used in this project, where designed by the Smog Detectives Kit team, is released under the CERN-OHL-P v2 License.
+ 
+**CERN-OHL-P v2 License**
+
+Copyright (c) 2020 by Smog Detectives team (Aleksy Chwedczuk, Krzysztof Dziardziel, Karolina Kamińska, 
+Mateusz Mazurczak, Ryszard Nowacki, Igor Roszczyk, Bianka Scott & Jakub Bochiński).
+
+Source: https://github.com/aleksychwedczuk/Smog-detector-kit
+
+This source describes Open Hardware and is licensed under the CERN-OHL-P v2
+You may redistribute and modify this documentation and make products
+using it under the terms of the CERN-OHL-P v2 (https:/cern.ch/cern-ohl).
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
+AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-P v2
+for applicable conditions
+
+
+## Software
+Software used in this project is released under MIT License. 
+
 **MIT License**
 
-Copyright (c) 2020 by Aleksy Chwedczuk, Krzysztof Dziardziel, Karolina Kamińska, 
-Mateusz Mazurczak, Ryszard Nowacki, Igor Roszczyk, Bianka Scott & Jakub Bochiński.
+Copyright (c) 2020 by Smog Detectives team (Aleksy Chwedczuk, Krzysztof Dziardziel, Karolina Kamińska, 
+Mateusz Mazurczak, Ryszard Nowacki, Igor Roszczyk, Bianka Scott & Jakub Bochiński).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
