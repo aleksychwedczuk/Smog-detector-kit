@@ -31,8 +31,9 @@ By assembling the smog detector kit you are investing in developing your enginee
 All necessary information for construction of the smog detector kit can be found below alongside with a list of all components. Our team strongly encourages you to attempt the construction of your own detector.
 
 # Hardware Specification
-Product Tree
-Rysiek / Krzysztof
+
+![Product Tree](/images/Smog Detectives Kit - Product Tree.jpg)
+
 # Detector Diagram
 Rysiek + JB
 
