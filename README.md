@@ -31,9 +31,8 @@ By assembling the smog detector kit you are investing in developing your enginee
 All necessary information for construction of the smog detector kit can be found below alongside with a list of all components. Our team strongly encourages you to attempt the construction of your own detector.
 
 # Hardware Specification
-
-![Product Tree](/images/Smog Detectives Kit - Product Tree.jpg)
-
+Product Tree
+Rysiek / Krzysztof
 # Detector Diagram
 Rysiek + JB
 
@@ -77,7 +76,34 @@ respectively.
 This is what the ParseSmog library is able to do - detect, locate, enumerate and analyze peaks in a signal. Based on this data we can calculate the number of particles of a given type or size in a given volume of air. The black line is the base line, the blue line is the scaled raw feed, the red lines are local averages, the green peaks are percieved anomalies in the background humm function (psi) and the circles show peak size. Peaks that do not have circles are not counted, since they do not follow the correct reflective patterns of an idealised spherical dust particle (or multiple stacked particles). The minimum anomaly (delta) can be adjusted to account for certain properties of the inside of a detector, which is what calibration of this script boils down to.
 # Hardware Resources 
 ## 3D Models
-Aleksik Kleksik
+The following files are uploaded in the 3D folder:
+
+Beam dump files:
+beamdump.f3d 
+beamdump.step
+beamdump_part_1.stl
+beamdump_part_2.stl
+beamdump_part_3.stl
+
+*First two files are editable and constitute of the beamdump part which is composed of three different components. The beamdump is split in order to ensure easy printing without the need of any raft on an FDM-type printer. Because of that there are three STL files as the beamdump itself has free parts which connect together without any additional adhesive due to their geometry.*
+
+Photodiode rod files:
+photodiode_rod.f3d
+photodiode_rod.step
+photodiode_rod.stl
+
+Laser holder files:
+*EDITABLE FILES MISSING*
+*EDITABLE FILES MISSING*
+laser_holder.stl
+
+Fan mount files:
+*EDITABLE FILES MISSING*
+*EDITABLE FILES MISSING*
+*STL FILES MISSING*
+
+
+
 ## Bill of Materials
 Aleksik Kleksik
 
