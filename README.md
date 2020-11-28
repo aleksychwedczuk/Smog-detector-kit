@@ -92,14 +92,14 @@ Beam dump files:<br>
 *First two files are editable and constitute of the beamdump part which is composed of three different components. The beamdump is split in order to ensure easy printing without the need of any raft on an FDM-type printer. Because of that there are three STL files as the beamdump itself has free parts which connect together without any additional adhesive due to their geometry.*
 
 Photodiode rod files:<br>
-photodiode_rod.f3d<br>
-photodiode_rod.step<br>
-photodiode_rod.stl<br>
+[photodiode_rod.f3d](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/photodiode_rod.f3d)<br>
+[photodiode_rod.step](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/photodiode_rod.step)<br>
+[photodiode_rod.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/photodiode_rod.stl)<br>
 
 Laser holder files:<br>
 *EDITABLE FILES MISSING*<br>
 *EDITABLE FILES MISSING*<br>
-laser_holder.stl<br>
+[laser_holder.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/laser_holder.stl)<br>
 
 Fan mount files:<br>
 *EDITABLE FILES MISSING*<br>
@@ -107,11 +107,11 @@ Fan mount files:<br>
 *STL FILES MISSING*<br>
 
 In order to create a copy of the original smog detective detector all STL files listed should be printed: <br>
-beamdump_part_1.stl<br>
-beamdump_part_2.stl<br>
-beamdump_part_3.stl<br>
-photodiode_rod.stl<br>
-laser_holder.stl<br>
+[beamdump_part_1.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_1.stl) <br>
+[beamdump_part_2.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_2.stl) <br>
+[beamdump_part_3.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/beamdump_part_3.stl) <br>
+[photodiode_rod.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/photodiode_rod.stl)<br>
+[laser_holder.stl](https://github.com/aleksychwedczuk/Smog-detector-kit/blob/main/3d-models/laser_holder.stl)<br>
 *STL FILES MISSING*<br>
 
 Otherwise if a need to edit any of the files arises they are available both in the editable STEP format as well as the AUTODESK FUSION 360 ARCHIVE FILES format compatible with autodesk CAD software.
