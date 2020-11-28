@@ -106,6 +106,10 @@ Fan mount files:
 *EDITABLE FILES MISSING*
 *STL FILES MISSING*
 
+In order to create a copy of the original smog detective detector all STL files listed should be printed: <br>
+beamdump_part_1.stl
+beamdump_part_2.stl
+beamdump_part_3.stl
 
 
 ## Bill of Materials
