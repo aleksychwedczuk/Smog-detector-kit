@@ -37,11 +37,13 @@ Rysiek / Krzysztof
 Rysiek + JB
 
 ![Detector Diagram](/images/SDK_photo_desc.png)
+
 # Getting Started with Smog Detector Kit
 Short step by step tutorial here.
 Karolina 
 
 In case you were wondering what is happening inside of the Smog Detector Kit, here is a handy cross section:
+
 ![Detector cross section](/images/SDK_photo_desc2.png)
 
 # How to program Smog Detector Kit
@@ -68,6 +70,10 @@ be any device, it does not need to be a genuino. Calibration can be conducted if
 needed by modifying the variables `size` and `coarse`, which control the length of the
 displayed data and the precision with which peaks should be searched for,
 respectively.
+
+![Demo of DustDetect Script](/images/image.png)
+
+This is what the ParseSmog library is able to do - detect, locate, enumerate and analyze peaks in a signal. Based on this data we can calculate the number of particles of a given type or size in a given volume of air. The black line is the base line, the blue line is the scaled raw feed, the red lines are local averages, the green peaks are percieved anomalies in the background humm function (psi) and the circles show peak size. Peaks that do not have circles are not counted, since they do not follow the correct reflective patterns of an idealised spherical dust particle (or multiple stacked particles). The minimum anomaly (delta) can be adjusted to account for certain properties of the inside of a detector, which is what calibration of this script boils down to.
 # Hardware Resources 
 ## 3D Models
 Aleksik Kleksik
