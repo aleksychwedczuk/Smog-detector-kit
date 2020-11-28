@@ -79,28 +79,28 @@ This is what the ParseSmog library is able to do - detect, locate, enumerate and
 The following files are uploaded in the 3D folder:
 
 Beam dump files:
-beamdump.f3d 
-beamdump.step
-beamdump_part_1.stl
-beamdump_part_2.stl
-beamdump_part_3.stl
+beamdump.f3d, 
+beamdump.step,
+beamdump_part_1.stl,
+beamdump_part_2.stl,
+beamdump_part_3.stl,
 
 *First two files are editable and constitute of the beamdump part which is composed of three different components. The beamdump is split in order to ensure easy printing without the need of any raft on an FDM-type printer. Because of that there are three STL files as the beamdump itself has free parts which connect together without any additional adhesive due to their geometry.*
 
 Photodiode rod files:
-photodiode_rod.f3d
-photodiode_rod.step
-photodiode_rod.stl
+photodiode_rod.f3d,
+photodiode_rod.step,
+photodiode_rod.stl,
 
 Laser holder files:
-*EDITABLE FILES MISSING*
-*EDITABLE FILES MISSING*
-laser_holder.stl
+*EDITABLE FILES MISSING*,
+*EDITABLE FILES MISSING*,
+laser_holder.stl,
 
 Fan mount files:
-*EDITABLE FILES MISSING*
-*EDITABLE FILES MISSING*
-*STL FILES MISSING*
+*EDITABLE FILES MISSING*,
+*EDITABLE FILES MISSING*,
+*STL FILES MISSING*,
 
 
 
