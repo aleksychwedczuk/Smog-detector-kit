@@ -31,7 +31,7 @@ By assembling the smog detector kit you are investing in developing your enginee
 All necessary information for construction of the smog detector kit can be found below alongside with a list of all components. Our team strongly encourages you to attempt the construction of your own detector.
 
 # Hardware Specification
-The hardware of the smog detector kit described below, consists of elements that can be either purchased at your hardware store, or need to be printed on a 3D printer. The map describes all components required for construction of each subsystem and lists all items that go into each of them. 
+The hardware of the smog detector kit described below, consists of elements that can be either purchased at your hardware store, or need to be printed on a 3D printer. The following product tree describes all components required for construction of each subsystem and lists all items that go into each of them. 
 
 ![Product Tree](/images/Smog_Detectives_Kit-Product_Tree.jpg)
 
