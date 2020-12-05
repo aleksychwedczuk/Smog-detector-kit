@@ -51,11 +51,21 @@ In case you were wondering what is happening inside of the Smog Detector Kit, he
 ![Detector cross section](/images/SDK_photo_desc2.png)
 
 # How to program Smog Detector Kit
+
 The software necessary to operate the Smog Detector is very simple. It is
-composed of two seperate scripts, written in Arduino C++ and Python 3.<br>
+composed of two seperate scripts, written in Arduino C++ and Python 3.
+
+## Arduino Software
+
 The first one operates on the Arduino located in our design, and it is extremely
 simple. The only purpose of that code is to open a serial, then continously
-read the current on the photosensitive diode and send the data every 100 ms.<br>
+read the current on the photosensitive diode and send the data every 100 ms.
+The only potential adjustments the code needs for it to function on any hardware is
+the modification of `READ_PIN` to the designated analog pin on the arduino. The
+default value for this definition is `A0`.
+
+## Workstation/Laptop Software
+
 The second program in Python 3 listens for this data on the recieving computer and
 displays a simple graph of what the current light level is and what the average
 from the past time period was. By using this data the algorithm can easily
@@ -63,11 +73,14 @@ calculate where there are peaks in intensity. Alternatively, when another mode
 is needed, the script can calculate the mean value of the intensity and based
 on that measure continous tiny peaks that compute to a general increase in tiny
 particulate matter that would be normally below the detectable range for a DIY
-device. This is also really simple as it is simply computing a dampened average.
+device. This is also really easy to understand as it is simply computing a dampened average.
 Both outputs are visible in a TkInter window. There is also a test mode allowing
 the introduction of gaussian distribution spikes into data with background noise
 and emulating the detector in silico. That way, we can check if the hardware and
-software will work correctly.<br>
+software will work correctly.
+
+## Calibration & Precision
+
 There is no calibration necessary from a software standpoint, and the computer
 used to recieve data only needs a standard Python 3 install. The Arduion can also
 be any device, it does not need to be a genuino. Calibration can be conducted if
